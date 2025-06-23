@@ -1,0 +1,38 @@
+# .github/license.yml
+version: 1
+
+# 许可证检测配置
+detect:
+  # 启用自定义许可证检测
+  enabled: true
+  
+  # 声明这是自定义许可证
+  custom: true
+  
+  # 许可证显示名称
+  name: "CC BY-NC-SA 4.0"
+  
+  # 许可证官方URL
+  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  
+  # 许可证SPDX标识符（可选但推荐）
+  spdx-id: "CC-BY-NC-SA-4.0"
+  
+  # 许可证描述（可选）
+  description: "知识共享署名-非商业性使用-相同方式共享4.0国际许可协议"
+  
+  # 许可证特征（可选）
+  permissions:
+    - "commercial-use"
+    - "distribution"
+    - "modifications"
+    - "private-use"
+  
+  conditions:
+    - "include-copyright"
+    - "document-changes"
+    - "same-license"
+  
+  limitations:
+    - "no-liability"
+    - "no-trademark-use"
