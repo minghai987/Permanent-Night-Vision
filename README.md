@@ -1,2 +1,13 @@
 # Permanent-Night-Vision
-When the player presses the G key, grant them a permanent night vision effect that has no particle effects and does not display a UI. Compatible with shaders 在玩家按下G键后，给予玩家永久的夜视效果（该夜视效果没有粒子效果，没有显示UI）。兼容光影
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+# 无痕夜视模组
+
+**许可证**  
+本作品采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/) 授权。
+
+## 您必须遵守：
+- ✅ **署名** - 必须给出适当署名
+- ❌ **非商业性使用** - 不得用于商业目的
+- 🔁 **相同方式共享** - 二次创作必须使用相同协议
+
