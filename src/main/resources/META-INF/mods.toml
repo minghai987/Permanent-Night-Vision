@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)" # Forge 1.20.1+
+license="CC BY-NC-SA 4.0"
+[[mods]]
+modId="permanentnightvision"
+version="1.0"
+displayName="Permanent Night Vision"
+authors="溟海"
+description="Press G to toggle permanent night vision without UI/particles. Compatible with shaders."
+
+# 兼容声明
+[[dependencies.permanentnightvision]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.permanentnightvision]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1，1.21.6]"
